@@ -1,0 +1,17 @@
+C:\StopTheSpying\RemoteClient\bin\Release\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\bin\Release\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.Properties.Resources.resources
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.csproj.GenerateResource.Cache
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.FrmMain.resources
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.FrmHelp.resources
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.exe
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.pdb
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.exe
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.pdb
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.FrmMain.resources
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.FrmHelp.resources
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.Properties.Resources.resources
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.GenerateResource.Cache
+C:\Users\Garv Jasuja\Desktop\Appy\lol2\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csprojResolveAssemblyReference.cache
